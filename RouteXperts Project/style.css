@@ -1,0 +1,40 @@
+h1 { color: white;text-align: center; background-color: black;border-style: solid;
+    border-width: 5px;
+    border-color: black; 
+    border-radius: 5px;
+}
+#form{
+    text-align: center;
+}
+#feedBack{
+    width: 14%;
+    display: none;
+    float: right;
+
+}
+#status {
+    background-color: black;
+    display: inline-block;
+    margin:0;
+    text-align: center;
+    width: 100%;
+    border: 2px solid black;
+}
+#button1{
+    float: left;
+    height: 50px;
+    width: 50%;
+}
+#button2{
+    float: right;
+    height: 50px;
+    width: 50%;
+}
+#termometer, #barometer{
+    color: black;
+
+}
+#map{
+    height: 500px;
+    width: 100%;
+}
